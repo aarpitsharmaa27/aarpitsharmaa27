@@ -1,4 +1,62 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarpit Sharma</h1>
+<h3 align="center">🚀 Python Learner | 💻 Practicing Daily | 🎯 Future Developer</h3>
+
+---
+
+### 🧠 About Me
+
+- 🐍 Currently learning **Python basics to advanced**
+- 🔭 Exploring tools like **Jupyter, NumPy, PyCharm**
+- 🌱 Building small projects and uploading them here
+- 📫 Reach me: **your_email@example.com**
+
+---
+
+### 🚀 Tech Stack & Tools:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📲 Connect with me:
+
+<p align="center">
+  <a href="https://www.instagram.com/your_username/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+
+---
+
+### 📁 My Learning Journey So Far:
+
+- ✅ Variables & Type Casting  
+- ✅ Loops & List Basics  
+- ✅ List Operations  
+- ✅ Python Functions  
+- 🔜 Conditional Statements  
+- 🔜 Dictionary & String Methods  
+
+> Check out my [repositories](https://github.com/aarpitsharmaa27?tab=repositories) to explore code samples.
+
+---
+
+### 📊 GitHub Stats:
+
+![Aarpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarpitsharmaa27&show_icons=true&theme=tokyonight)
+
+---
+
+### ⚡ Fun Fact:
+
+> 💡 I believe: **"Consistency beats talent when talent doesn’t work hard."**
+
 
 <!--
 **aarpitsharmaa27/aarpitsharmaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
