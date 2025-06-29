@@ -47,14 +47,8 @@
 
 ### 📊 GitHub Stats:
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarpitsharmaa27&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarpitsharmaa27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarpitsharmaa27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### ⚡ Fun Fact:
