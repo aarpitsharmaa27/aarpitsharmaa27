@@ -47,9 +47,28 @@
 
 ### 📊 GitHub Stats:
 
+<h2 align="center">🚀 GitHub Stats & Achievements</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarpitsharmaa27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarpitsharmaa27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarpitsharmaa27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aarpitsharmaa27&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarpitsharmaa27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ### ⚡ Fun Fact:
 
