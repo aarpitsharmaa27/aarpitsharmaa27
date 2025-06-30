@@ -26,12 +26,12 @@
 
 
 ### 📲 Connect with me:
-
 <p align="center">
   <a href="https://www.instagram.com/aarpitsharmaa27/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="60" height="60"/>
   </a>
 </p>
+
 
 ---
 
