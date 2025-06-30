@@ -27,7 +27,7 @@
 
 ### 📲 Connect with me:
 <p align="center">
-  <a href="https://www.instagram.com/your_username/" target="_blank">
+  <a href="https://www.instagram.com/aarpitsharmaa27/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
 </p>
