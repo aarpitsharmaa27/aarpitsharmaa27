@@ -8,7 +8,7 @@
 - 🐍 Currently learning **Python basics to advanced**
 - 🔭 Exploring tools like **Jupyter, NumPy, PyCharm**
 - 🌱 Building small projects and uploading them here
-- 📫 Reach me: **arpit8894350818@gmail.com**
+- 📫 Reach me: **aarpitsharmaa27@gmail.com**
 
 ---
 
