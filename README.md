@@ -41,7 +41,7 @@
 - ✅ Loops & List Basics  
 - ✅ List Operations  
 - ✅ Python Functions  
-- 🔜 Conditional Statements  
+- ✅ Conditional Statements  
 - 🔜 Dictionary & String Methods  
 
 > Check out my [repositories](https://github.com/aarpitsharmaa27?tab=repositories) to explore code samples.
