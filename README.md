@@ -42,7 +42,8 @@
 - ✅ List Operations  
 - ✅ Python Functions  
 - ✅ Conditional Statements  
-- 🔜 Dictionary & String Methods  
+- 🔜 Dictionary & String Methods
+- 🔜 Other Python Functions
 
 > Check out my [repositories](https://github.com/aarpitsharmaa27?tab=repositories) to explore code samples.
 
