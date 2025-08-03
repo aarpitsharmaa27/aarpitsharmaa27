@@ -22,6 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
+  <a href="https://www.kaggle.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="80" height="60" />
+  </a>
 </p>
 
 ---
@@ -31,7 +34,7 @@
   <a href="https://www.instagram.com/aarpitsharmaa27/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
-  <a href="https://www.kaggle.com/yourusername" target="_blank">
+  <a href="https://www.kaggle.com/aarpitsharma27" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Badge"/>
   </a>
 </p>
