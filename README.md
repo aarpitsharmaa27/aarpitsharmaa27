@@ -24,14 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
 </p>
 
+---
 
 ### 📲 Connect with me:
 <p align="center">
   <a href="https://www.instagram.com/aarpitsharmaa27/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
+  <a href="https://www.kaggle.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Badge"/>
+  </a>
 </p>
-
 
 ---
 
@@ -65,23 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarpitsharmaa27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
 
 ### ⚡ Fun Fact:
 
 > 💡 I believe: **"Consistency beats talent when talent doesn’t work hard."**
 
-
-<!--
-**aarpitsharmaa27/aarpitsharmaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
