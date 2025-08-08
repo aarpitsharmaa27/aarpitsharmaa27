@@ -13,8 +13,6 @@
 ---
 
 ### 🚀 Tech Stack & Tools:
-<h2 align="center">🛠️ Tools & Tech Stack</h2>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60" />
@@ -25,9 +23,9 @@
   <a href="https://www.kaggle.com/yourusername" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="80" height="60" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
 </p>
 
----
 
 ### 📲 Connect with me:
 <p align="center">
