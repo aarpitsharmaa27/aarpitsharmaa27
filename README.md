@@ -1,77 +1,128 @@
-<h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
-<h3 align="center">🚀 Python Learner | 💻 Practicing Daily | 🎯 Future Developer</h3>
+# Hi 👋, I'm Arpit Sharma
+
+### Python Backend Developer | FastAPI | SQL | Data & Machine Learning
+
+I'm an MCA student interested in Python backend development, data and machine learning.  
+I enjoy building practical projects, solving problems and learning by working on real-world use cases.
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-- 🐍 Currently learning **Python basics to advanced**
-- 🔭 Exploring tools like **Jupyter, NumPy, PyCharm**
-- 🌱 Building small projects and uploading them here
-- 📫 Reach me: **aarpitsharmaa27@gmail.com**
-
----
-
-### 🚀 Tech Stack & Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
-  <a href="https://www.kaggle.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="80" height="60" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
-</p>
-
-
-### 📲 Connect with me:
-<p align="center">
-  <a href="https://www.instagram.com/aarpitsharmaa27/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="60" height="60"/>
-  </a>
-  <a href="https://www.kaggle.com/aarpitsharma27" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Badge"/>
-  </a>
-</p>
+- 🎓 Currently pursuing **MCA (2025–2027)**
+- 🐍 Focused on **Python and Backend Development**
+- ⚡ Hands-on experience with **FastAPI and REST APIs**
+- 🗄️ Working with **SQL and databases**
+- 🤖 Exploring **Machine Learning with Python**
+- 🚀 Currently building **PlaceX**, a placement management platform
+- 💡 Interested in building useful and practical software products
 
 ---
 
-### 📁 My Learning Journey So Far:
+## 🛠️ Tech Stack
 
-- ✅ Variables & Type Casting  
-- ✅ Loops & List Basics  
-- ✅ List Operations  
-- ✅ Python Functions  
-- ✅ Conditional Statements  
-- 🔜 Dictionary & String Methods
-- 🔜 Other Python Functions
+### Programming & Backend
+- Python
+- FastAPI
+- REST APIs
+- Pydantic
+- HTTP / CRUD
 
-> Check out my [repositories](https://github.com/aarpitsharmaa27?tab=repositories) to explore code samples.
+### Database
+- SQL
+- MySQL
+
+### Data & Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Exploratory Data Analysis
+- Feature Engineering
+- Logistic Regression
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Linux / Ubuntu
 
 ---
 
-### 📊 GitHub Stats:
+## 🚀 Projects
 
-<h2 align="center">🚀 My GitHub Activity</h2>
+### 📌 PlaceX — Placement Management Platform
+Currently building an end-to-end placement management platform designed to make placement information easier for students to search and use.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarpitsharmaa27&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarpitsharmaa27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarpitsharmaa27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+**Working with:** Python, FastAPI, APIs, databases, HTML, CSS and JavaScript.
 
 ---
 
-### ⚡ Fun Fact:
+### 📌 Patient Management API
+A REST API built using FastAPI for managing patient records.
 
-> 💡 I believe: **"Consistency beats talent when talent doesn’t work hard."**
+**Features:**
+- CRUD operations
+- Data validation using Pydantic
+- Path and query parameters
+- HTTP exceptions and status codes
+- BMI calculation and health classification
+- Swagger / OpenAPI documentation
+- JSON-based data storage
 
+**Tech:** Python, FastAPI, Pydantic, JSON
+
+---
+
+### 📌 Customer Churn Prediction
+Machine learning project to predict customer churn using customer-related features.
+
+**Work included:**
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Logistic Regression
+- Model evaluation
+- FastAPI integration
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, FastAPI
+
+---
+
+### 📌 Titanic Survival Prediction
+Machine learning project focused on predicting passenger survival.
+
+**Work included:**
+- EDA
+- Data preprocessing
+- Feature engineering
+- Logistic Regression
+- Model evaluation
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+## 📚 Currently Learning
+
+- Advanced FastAPI
+- Backend development
+- Database integration
+- Data Structures & Algorithms
+- Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **aarpitsharmaa27@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/arpit-sharma-tech**
+- 🐙 GitHub: **https://github.com/aarpitsharmaa27**
+
+---
+
+### 💭 My Goal
+
+To become a strong **Python Backend Developer** and gradually grow into building intelligent, data-driven applications.
